@@ -1,6 +1,6 @@
 # fullportfolio
 
-A new Flutter project.
+A new Flutter project of portfolio.
 
 ## Getting Started
 
